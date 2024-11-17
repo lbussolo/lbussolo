@@ -1,6 +1,6 @@
   Meu nome é Luiza
   
-  Estou interessada em aprender asnálise dedados e com isso poder ser agente multiplicador na minha área de atuação;
+  Estou interessada em aprender análise de dados e com isso poder ser agente multiplicador na minha área de atuação;
   
   Eng.da computação Descomplica
   
